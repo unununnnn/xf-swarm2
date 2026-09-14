@@ -1,0 +1,13 @@
+LIBRARY xf_swarm.dll
+EXPORTS
+    xf_swarm_abi_version
+    xf_swarm_default_config
+    xf_swarm_create
+    xf_swarm_destroy
+    xf_swarm_set_formation
+    xf_swarm_set_leader
+    xf_swarm_set_goal
+    xf_swarm_push_state
+    xf_swarm_step
+    xf_swarm_stop
+    xf_swarm_reset

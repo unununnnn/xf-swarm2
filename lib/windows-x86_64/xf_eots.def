@@ -1,0 +1,8 @@
+LIBRARY xf_eots.dll
+EXPORTS
+    xf_eots_abi_version
+    xf_eots_create
+    xf_eots_destroy
+    xf_eots_command
+    xf_eots_feed
+    xf_eots_read

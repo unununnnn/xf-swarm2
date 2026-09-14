@@ -1,0 +1,10 @@
+*.h text eol=lf
+*.c text eol=lf
+*.md text eol=lf
+*.cmake text eol=lf
+*.txt text eol=lf
+*.def text eol=lf
+CMakeLists.txt text eol=lf
+*.dll binary
+*.so binary
+*.a binary
